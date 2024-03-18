@@ -23,7 +23,7 @@ Passionate about web development and constantly exploring new technologies. Love
 
 Feel free to reach out for questions, collaborations, or just to say hi! 🙌
 
-- Email: [your@email.com](mailto:your@email.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- website: [portfolio](https://portfolio-prandrian.vercel.app/)
+- LinkedIn: [linkedin.com/in/princy-and/](https://www.linkedin.com/in/princy-and/)
 
 Thanks for stopping by! Happy coding! 🎉
