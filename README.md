@@ -1,6 +1,6 @@
 # 👨‍💻 Princy - Full Stack Developer @Giva 🚀
 
-Welcome to my GitHub profile! I'm Stev, a Full Stack Developer at Giva based in France.
+Welcome to my GitHub profile! I'm Princy alias Stev, a Full Stack Developer at Giva based in France.
 
 ## About Me ℹ️
 
