@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👨‍💻 Princy - Full Stack Developer @ Giva 🚀
 
-<!--
-**PrAndrian/PrAndrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Stev, a Full Stack Developer at Giva based in France.
 
-Here are some ideas to get you started:
+## About Me ℹ️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about web development and constantly exploring new technologies. Love building cool stuff that makes a difference! 💡
+
+## Skills 🛠️
+
+- Frontend: ReactJS 💻
+- Backend: .NET Core ⚙️
+- Web Design: Weweb 🎨
+- Financial Services Solutions 💰
+
+## Projects 🚧
+
+- **Insurance Consolidation Platform**: Helping clients save big on insurances while ensuring maximum security. 🔒💸
+- **Weweb Integration**: Creating awesome custom websites for clients using Weweb's powerful features. 🌐✨
+- **Performance Optimization**: Always striving to make our applications faster and more efficient. ⚡
+
+## Get in Touch 📬
+
+Feel free to reach out for questions, collaborations, or just to say hi! 🙌
+
+- Email: [your@email.com](mailto:your@email.com)
+- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+
+Thanks for stopping by! Happy coding! 🎉
