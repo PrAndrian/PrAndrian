@@ -23,7 +23,7 @@ Passionate about web development and constantly exploring new technologies. Love
 
 Feel free to reach out for questions, collaborations, or just to say hi! 🙌
 
-- website: [portfolio](https://portfolio-prandrian.vercel.app/)
+- website: [portfolio](https://portfolio-asboevkl5-prandrians-projects.vercel.app/)
 - LinkedIn: [linkedin.com/in/princy-and/](https://www.linkedin.com/in/princy-and/)
 
 Thanks for stopping by! Happy coding! 🎉
