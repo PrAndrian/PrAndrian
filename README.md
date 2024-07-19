@@ -16,7 +16,7 @@ Passionate about web development and constantly exploring new technologies. Love
 ## Projects 🚧
 
 - **Insurance Consolidation Platform**: Helping clients save big on insurances while ensuring maximum security. 🔒💸
-- **Weweb Integration**: Creating awesome custom websites for clients using Weweb's powerful features. 🌐✨
+- **CRM**: Creating intern application to manage client's insurances  🌐✨
 - **Performance Optimization**: Always striving to make our applications faster and more efficient. ⚡
 
 ## Get in Touch 📬
