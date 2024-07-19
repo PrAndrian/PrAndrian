@@ -10,7 +10,7 @@ Passionate about web development and constantly exploring new technologies. Love
 
 - Frontend: ReactJS 💻
 - Backend: .NET Core ⚙️
-- Web Design: Weweb 🎨
+- Web Design: Figma 🎨
 - Financial Services Solutions 💰
 
 ## Projects 🚧
