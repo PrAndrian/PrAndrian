@@ -1,42 +1,74 @@
-# 👨‍💻 Princy Andrianandrianina - Full Stack Engineer (JS/.NET) | Value-Driven Development 🚀
+<div align="center">
 
-Welcome to my profile! I am Princy (alias Stev), a **Full Stack Developer (JS/.NET)** based in France, specializing in designing and deploying end-to-end solutions, from complex UI to robust backend services. My focus is consistently on leveraging technology to drive measurable business impact and operational efficiency.
+# Princy Andrianandrianina
 
-## About Me ℹ️
+**Full Stack Engineer** · JS/.NET · France
 
-Currently, I serve as a Full Stack Developer at Giva Regroupement Assurance, where I contribute to innovating the financial services sector, specifically around insurance consolidation.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2025-six-rouge.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princy-and/)
 
-I excel in turning concrete business needs into scalable digital solutions. My approach integrates technical depth (from API design to production delivery) with strong business orientation, notably evidenced by performance improvements and substantial ROI on previous projects.
+</div>
 
-## Technical Stack 🛠️
+---
 
-My expertise covers the full development lifecycle, from architecture design to quality assurance:
+### Hey there!
 
-| Category | Key Technologies |
-| :--- | :--- |
-| **Frontend** | **ReactJS**, Next.js, Storybook, Redux, Zustand, Jest, Cypress, Playwright |
-| **Backend / API** | **.NET** (ASAP.NET, XUnit, Entity Framework), **Express.js**, GraphQL, C#, Python |
-| **Databases** | **PostgreSQL**, SQL Server, MongoDB, Firebase |
-| **DevOps & Tools** | Git, **GitHub**, Docker, Azure, Jira, Figma, Notion, ClickUp |
+I'm **Princy** (also known as **Stev**) — a Full Stack Developer passionate about building end-to-end solutions that bridge complex interfaces with robust backend systems. Currently based in France, I focus on transforming business requirements into scalable digital products with measurable impact.
 
-## Key Achievements & Projects 🚧
+At **Giva Regroupement Assurance**, I work on innovating financial services within the insurance consolidation space, tackling challenges from UI architecture to API design and production deployment.
 
-My goal is to **reinforce software quality** (unit/E2E testing) while accelerating business objectives, having previously handled critical module refactoring and migration projects.
+---
 
-*   **Insurance & Financial Application Development (Giva):**
-    *   **End-to-End Delivery:** Design and deployment of comprehensive features, including React.js interfaces, API integration, .NET business logic, and reliable data validation.
-    *   **Operational Efficiency:** Creation of configurable internal tools, empowering business teams to adjust operational rules without requiring technical intervention.
-    *   **Architecture Modernization:** Led the migration of a legacy no-code system to an industrial React.js base, implementing a modular architecture to significantly improve maintainability.
+## Tech Stack
 
-*   **E-Commerce Performance & Optimization (Previous Role):**
-    *   **High ROI Generation:** Achieved a **Retour sur Investissement (ROI) de 249.38 %** (2023) by reorganizing an underperforming e-commerce site, focusing intensely on design, enhanced user experience (UX), and Search Engine Optimization (SEO).
-    *   **Client Experience Improvement:** Developed a web-based consulting platform which resulted in a **reduction of 50 % des temps d'attente des clients**.
+```
+Frontend       ReactJS • Next.js • Redux • Zustand • Storybook • Jest • Cypress • Playwright
+Backend        .NET (ASP.NET, Entity Framework, XUnit) • Express.js • GraphQL • C# • Python
+Data           PostgreSQL • SQL Server • MongoDB • Firebase
+Infrastructure Docker • Azure • Git/GitHub • CI/CD
+Tools          Jira • Figma • Notion • ClickUp
+```
 
-## Get in Touch 📬
+---
 
-I am always open to discussing new technical challenges, potential collaborations, or opportunities where my Full Stack expertise and results-oriented approach can make a difference.
+## Selected Work
 
-*   Portfolio: [https://portfolio-2025-six-rouge.vercel.app/](https://portfolio-2025-six-rouge.vercel.app/)
-*   LinkedIn: [linkedin.com/in/princy-and/](https://www.linkedin.com/in/princy-and/)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Thanks for exploring my profile!
+### Insurance Platform — Giva
+
+Building comprehensive features across the full stack:
+- React.js interfaces with .NET business logic
+- Configurable internal tools for non-technical teams
+- Led migration from legacy no-code to modular React architecture
+
+</td>
+<td width="50%" valign="top">
+
+### E-Commerce Optimization
+
+Restructured an underperforming platform with focus on UX and SEO:
+- **249% ROI** achieved in 2023
+- **50% reduction** in client wait times via custom consulting platform
+
+</td>
+</tr>
+</table>
+
+---
+
+## Approach
+
+I prioritize **software quality** through comprehensive testing (unit & E2E) while maintaining velocity on business objectives. My work centers on architecture modernization, performance optimization, and creating tools that empower teams.
+
+---
+
+<div align="center">
+
+**Open to technical challenges & collaboration**
+
+*Let's build something meaningful.*
+
+</div>
