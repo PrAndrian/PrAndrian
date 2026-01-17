@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;Aspiring+AI+Engineer;React+%2B+.NET+%2B+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=FullStack+Developer;React.js+%2B+.NET+%2B+Azure;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
 # Princy Andrianandrianina
 
-**3 years experience** · **Full Stack + AI** · **France** · **Remote-Friendly**
+**3 years experience** · **FullStack Developer** · **France** · **Remote-Friendly**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2025-six-rouge.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princy-and/)
@@ -16,18 +16,18 @@
 
 ### Hey there!
 
-I'm **Princy** (also known as **Stev**) — a Full Stack Developer passionate about building end-to-end solutions that bridge complex interfaces with robust backend systems. Currently expanding into **AI/ML engineering**, exploring how intelligent systems can enhance the products I build.
+I'm **Princy** (also known as **Stev**) — a FullStack Developer specializing in **React.js**, **.NET**, and **Azure**. I build end-to-end solutions that bridge complex interfaces with robust backend systems, delivering scalable applications from UI architecture to API design and production deployment.
 
-At **Giva Regroupement Assurance**, I work on innovating financial services within the insurance consolidation space, tackling challenges from UI architecture to API design and production deployment.
+At **Giva Regroupement Assurance**, I work on innovating financial services within the insurance consolidation space, architecting modern React.js frontends integrated with .NET backends and deploying on Azure infrastructure.
 
 ---
 
 ## Currently
 
-- 🔭 **Working on:** Insurance platform at Giva (React + .NET)
-- 🌱 **Learning:** LLMs, RAG architectures, AI agents
-- 👀 **Looking for:** AI Engineering opportunities
-- 💬 **Ask me about:** React, .NET, Testing strategies, AI integration
+- 🔭 **Working on:** Insurance platform at Giva (React.js + .NET + Azure)
+- 🌱 **Learning:** Azure architecture, microservices patterns, performance optimization
+- 👀 **Looking for:** FullStack Developer opportunities (React.js/.NET/Azure)
+- 💬 **Ask me about:** React.js, .NET, Azure, Testing strategies, Scalable architecture
 
 ---
 
@@ -111,16 +111,6 @@ At **Giva Regroupement Assurance**, I work on innovating financial services with
 </details>
 
 <details>
-<summary><b>AI Tools</b></summary>
-<br>
-
-![Claude](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=github-copilot&logoColor=white)
-![OpenAI](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-</details>
-
-<details>
 <summary><b>Tools & Environment</b></summary>
 <br>
 
@@ -188,7 +178,7 @@ Restructured an underperforming platform with focus on UX and SEO:
 🎮 **Gaming** · Tactical & RPG games
 🧑‍🏫 **Mentoring** · Helping others grow
 🎵 **Music** · Always coding with a playlist
-🤖 **AI Addict** · Experimenting with LLMs & agents
+💻 **Tech Enthusiast** · Exploring new frameworks and tools
 
 ---
 
@@ -202,7 +192,7 @@ Restructured an underperforming platform with focus on UX and SEO:
 
 ---
 
-*Building at the intersection of full-stack development and AI.*
+*Building scalable solutions with React.js, .NET, and Azure.*
 
 📍 **France** · 🌍 **Remote-Friendly** · 🚀 **Open to Opportunities**
 
