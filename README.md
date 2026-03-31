@@ -1,10 +1,10 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=FullStack+Developer;React.js+%2B+.NET+%2B+Azure;Building+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Consultant+Fullstack+.NET+%2F+React+%2F+Azure;Modernisation+de+SI+%26+Accompagnement+de+devs;%40eXalt+IT)](https://git.io/typing-svg)
 
 # Princy Andrian
 
-**3 years experience** · **FullStack Developer** · **France** · **Remote-Friendly**
+**+3 ans d'expérience** · **Consultant Fullstack .NET/React/Azure** · **@eXalt IT** · **France**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-2025-six-rouge.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princy-and/)
@@ -16,18 +16,18 @@
 
 ### Hey there!
 
-I'm **Princy** (also known as **Stev**) — a FullStack Developer specializing in **React.js**, **.NET**, and **Azure**. I build end-to-end solutions that bridge complex interfaces with robust backend systems, delivering scalable applications from UI architecture to API design and production deployment.
+I'm **Princy** (also known as **Stev**) — a Fullstack Developer specializing in **React.js**, **.NET**, and **Azure**. I build end-to-end solutions that bridge complex interfaces with robust backend systems, delivering scalable applications from UI architecture to API design and production deployment.
 
-At **Giva Regroupement Assurance**, I work on innovating financial services within the insurance consolidation space, architecting modern React.js frontends integrated with .NET backends and deploying on Azure infrastructure.
+Aujourd'hui **Consultant Fullstack .NET/React/Azure** chez **eXalt IT**, j'interviens en mission chez des clients grands comptes sur des projets de **modernisation de SI** et de développement d'applications métier. Ce que j'aime par-dessus tout : **accompagner les développeurs** — pas leur donner des réponses, mais les aider à trouver leur propre façon de réfléchir et de penser architecture.
 
 ---
 
 ## Currently
 
-- 🔭 **Working on:** Insurance platform at Giva (React.js + .NET + Azure)
+- 🔭 **Working on:** Missions grands comptes chez eXalt IT — modernisation & développement d'applications métier
 - 🌱 **Learning:** Azure architecture, microservices patterns, performance optimization
-- 👀 **Looking for:** FullStack Developer opportunities (React.js/.NET/Azure)
-- 💬 **Ask me about:** React.js, .NET, Azure, Testing strategies, Scalable architecture
+- 🤝 **Passionate about:** Accompagnement de développeurs, clean code, business-driven development
+- 💬 **Ask me about:** React.js, .NET Core, Azure, SQL Server, migration de SI, mentoring
 
 ---
 
@@ -107,6 +107,7 @@ At **Giva Regroupement Assurance**, I work on innovating financial services with
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
 </details>
 
@@ -129,31 +130,35 @@ At **Giva Regroupement Assurance**, I work on innovating financial services with
 
 ---
 
-## Selected Work
+## Key Achievements
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Insurance Platform — Giva
+### Giva Regroupement Assurances — 2 ans
 
-Building comprehensive features across the full stack:
-- React.js interfaces with .NET business logic
-- Configurable internal tools for non-technical teams
-- Led migration from legacy no-code to modular React architecture
+Migration complète d'un SI no-code vers une architecture moderne :
+- **Temps de chargement /15** — de 15s à 1s
+- **59 tables SQL Server** conçues from scratch
+- **3 applicatifs métier** développés de bout en bout (front, back, CI/CD, Azure)
+- App de gestion de prospects en C#/.NET Core/React.js
+- Accompagnement quotidien de 1-2 développeurs
 
-**Stack:** `React` `TypeScript` `.NET` `SQL Server`
+**Stack:** `C#` `.NET Core` `React.js` `SQL Server` `Azure` `TypeScript`
 
 </td>
 <td width="50%" valign="top">
 
-### E-Commerce Optimization
+### La Grande Pharmacie — 1 an 7 mois
 
-Restructured an underperforming platform with focus on UX and SEO:
-- **249% ROI** achieved in 2023
-- **50% reduction** in client wait times via custom consulting platform
+Développement web & optimisation e-commerce :
+- **249% ROI** en 2023 via refonte UX/SEO du site e-commerce
+- **-50% temps d'attente** clients grâce à une plateforme de conseil web
+- **17 000 références** récupérées et intégrées via service web
+- Transition complète du papier vers une base de données numérique
 
-**Stack:** `Next.js` `TailwindCSS` `PostgreSQL`
+**Stack:** `Next.js` `TailwindCSS` `PostgreSQL` `WordPress` `SOAP`
 
 </td>
 </tr>
@@ -161,15 +166,24 @@ Restructured an underperforming platform with focus on UX and SEO:
 
 ---
 
+## Formation
+
+| Diplome | Ecole | Periode |
+|---------|-------|---------|
+| TP Niveau 7 — Chef de projet & Cybersecurite Cloud (Mention Bien) | Cloud Campus | 2024 - 2025 |
+| TP Developpeur d'applications JavaScript React | OpenClassrooms | 2022 - 2023 |
+
+---
+
 ## Soft Skills
 
-| Human Impact | Operational Efficiency |
-|-------------|----------------------|
-| Communication | Task Breakdown & Prioritization |
-| Pedagogy & Mentoring | Critical Thinking |
-| Feedback Culture | Value-Driven Development |
-| Empathy | Problem Solving |
-| Leadership | Fast Learning |
+| Impact Humain | Efficacite Operationnelle |
+|---------------|--------------------------|
+| Communication | Decoupage & Priorisation |
+| Pedagogie & Mentorat | Esprit Critique |
+| Culture du Feedback | Developpement oriente Valeur |
+| Empathie | Resolution de Problemes |
+| Leadership | Apprentissage Rapide |
 
 ---
 
@@ -186,14 +200,14 @@ Restructured an underperforming platform with focus on UX and SEO:
 
 ### Let's Connect
 
-**Recruiters** · [LinkedIn](https://www.linkedin.com/in/princy-and/) for opportunities
-**Tech Leads** · Check my [Portfolio](https://portfolio-2025-six-rouge.vercel.app/)
-**Developers** · Let's collaborate on [GitHub](https://github.com/PrAndrian)
+**Recruteurs** · [LinkedIn](https://www.linkedin.com/in/princy-and/) pour les opportunités
+**Tech Leads** · Découvrez mon [Portfolio](https://portfolio-2025-six-rouge.vercel.app/)
+**Développeurs** · Collaborons sur [GitHub](https://github.com/PrAndrian)
 
 ---
 
-*Building scalable solutions with React.js, .NET, and Azure.*
+*Consultant Fullstack .NET/React/Azure — Modernisation de SI & accompagnement de devs*
 
-📍 **France** · 🌍 **Remote-Friendly** · 🚀 **Open to Opportunities**
+📍 **Montreuil, France** · 🏢 **@eXalt IT** · 🌍 **Hybride**
 
 </div>
